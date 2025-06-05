@@ -1,6 +1,6 @@
 # 🔍 Scheduled Task Persistence Lab: Attacker vs. Analyst
 
-> In this lab, I play both sides: the attacker planting a persistence mechanism, and the threat hunter detecting and remediating it — all using free tools, Sysmon, and Microsoft Sentinel.
+> In this lab, I play both sides: the attacker planting a persistence mechanism, and the threat hunter detecting and remediating it using free tools, Sysmon, and Microsoft Sentinel.
 
 ---
 
@@ -8,7 +8,7 @@
 
 ### 🛠️ 1. Environment Setup
 
-To simulate a real-world persistence attack, I started by building a clean lab environment on a Windows VM.
+To simulate a real world persistence attack, I started by building a clean lab environment on a Windows VM.
 
 - Created `C:\Tools` directory
 - Extracted Sysinternals Suite
@@ -127,4 +127,4 @@ All actions were performed on a controlled VM using free and enterprise-relevant
 - Threat detection with Microsoft Sentinel and KQL  
 - Adversary emulation using native Windows tools  
 - Hands-on incident response and remediation  
-- Understanding of attacker TTPs and real-world detection logic  
+- Understanding of attacker TTPs and real world detection logic  
