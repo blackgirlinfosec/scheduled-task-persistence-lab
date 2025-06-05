@@ -40,7 +40,7 @@ schtasks /create /tn "WinUpdater" /tr "C:\Windows\System32\calc.exe" /sc onlogon
 ```
 
 📸  
-![03](./screenshots/03_scheduled_task_created.png)  
+![03](./screenshots/031_scheduled_task_created.png)  
 *Scheduled task created using schtasks.exe — simulates persistence by launching a benign payload.*
 
 ---
